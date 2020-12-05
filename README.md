@@ -4,4 +4,9 @@
 1. It is responsive design.
 1. It is not support all browsers.
 1. No vendor prefixes for Css3 style.
-1. In futur it will not get updates. **But I will work in another independent project**
+1. In futur it will not get updates. **But I will work on another independent projects**
+
+## Preview Template
+
+### Desktop preview
+[Header And Main Section](preview_pic/header-section1.png)
