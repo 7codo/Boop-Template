@@ -12,16 +12,16 @@
 ## Preview Template
 
 ### In desktop preview
-1. [Header And Main Section](preview_pic/header-section1.png)
-1. [Section 2](preview_pic/section2.png)
-1. [Section 3](preview_pic/section3.png)
-1. [Section 4](preview_pic/section4.png)
-1. [Section 5](preview_pic/section5.png)
-1. [Section 6](preview_pic/section6.png)
-1. [Footer](preview_pic/section7.png)
+![Header And Main Section](preview_pic/header-section1.png)
+![Section 2](preview_pic/section2.png)
+![Section 3](preview_pic/section3.png)
+![Section 4](preview_pic/section4.png)
+![Section 5](preview_pic/section5.png)
+![Section 6](preview_pic/section6.png)
+![Footer](preview_pic/section7.png)
 
 ### In mobile preview
-1. [Part 1](preview_pic/mobile1.png)
+![Part 1](preview_pic/mobile1.png)
 1. [Part 2](preview_pic/mobile3.png)
 1. [Part 3](preview_pic/mobile4.png)
 1. [Part 4](preview_pic/mobile5.png)
