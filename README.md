@@ -1,10 +1,11 @@
 # Description
 1. Boop template created just by Html5 and Css3.
 1. It inspired from https://boopdoggy.com, So all rights reserved to him.
+1. I used the flex layout in all parts of template
 1. It is responsive design.
 1. Because we respect the rights, So In futur it will not get updates. **But I will work on another independent projects**
-- [ ] No vendor prefixes for Css3 style.
-- [ ] Not support all browsers.
+  1. - [ ] No vendor prefixes for Css3 style.
+  1. - [ ] Not support all browsers.
 
 ## Preview Template
 
