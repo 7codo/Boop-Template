@@ -4,10 +4,10 @@
 1. - [x]  I used the flex layout in all parts of template
 1. - [x]  It is responsive design (Media Queries) basic to content view.
 1. - [x]  Css3 animation.
-1. - [x]  Ionicon & SVG images.
-1. Because we respect the rights, So In futur it will not get updates. **But I will work on another independent projects**
-  1. - [ ] No vendor prefixes for Css3 style.
-  1. - [ ] Not support all browsers.
+1. - [x]  Ionicons & SVG images.
+1. Because we respect the rights, So in futur it will not get updates. **But I will work on another independent projects**
+  1. - [ ] No vendor prefixes for Css3 style (NU).
+  1. - [ ] Not support all browsers (NU).
 
 ## Preview Template
 
